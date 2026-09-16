@@ -24,7 +24,7 @@ iphone-duo/
 Claude Code, for one project:
 
 ```bash
-git clone https://github.com/<owner>/iphone-duo-skill.git /tmp/iphone-duo-skill
+git clone https://github.com/yehdan8-debug/iphone-duo-skill.git /tmp/iphone-duo-skill
 cp -R /tmp/iphone-duo-skill/iphone-duo .claude/skills/iphone-duo
 ```
 
